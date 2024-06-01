@@ -1,0 +1,47 @@
+[env]
+TERM = "xterm-256color"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+padding.x = 10
+padding.y = 10
+
+opacity = 0.8
+blur = true
+
+[font]
+normal.family = "JetBrainsMonoNerdFont"
+
+size = 10
+
+[colors.primary]	
+background = "#141428"
+foreground = "#ECEFF4"
+
+[colors.normal]
+black = "#3B4252"
+    #Default: "#181818"
+
+red = "#BF616A"
+    #Default: "#ac4242"
+
+green = "#A3BE8C"
+    #Default: "#90a959"
+
+yellow = "#EBCB8B"
+    #Default: "#f4bf75"
+
+blue = "#5E81AC"
+    #Default: "#6a9fb5"
+
+magenta = "#B48EAD"
+    #Default: "#aa759f"
+
+cyan = "#81A1C1"
+    #Default: "#75b5aa"
+
+white = "#ffffff"
+    #Default: "#E5E9FO"
